@@ -1,2 +1,2 @@
 # kungfu
-Temporary repo for learning experience.
+This sets up my awesome web server!
